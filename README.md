@@ -5,6 +5,7 @@ A simple and intuitive currency conversion app built with React Native and Nativ
 ## Features
 
 - Add currencies to a favorites list for easy access.
+- Display country flags and currency symbol associated with the currencies for easier identification by users.
 - Convert between any two currencies from the favorites list.
 - Delete currencies from your favorites list as needed.
 - Real-time conversion with an active internet connection.
