@@ -80,5 +80,5 @@ Follow these steps to run the project locally.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/currency-conversion-app.git
+git clone https://github.com/akachi11/reeple-assessment-chimadika.git
 cd currency-conversion-app
